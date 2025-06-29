@@ -2,7 +2,7 @@
   "name": "vscode-ctrl-e",
   "displayName": "Ctrl+E Selection to REPL",
   "description": "Adds Ctrl+E keyboard shortcut to send selection to REPL",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "khwbagm",
   "repository": {
     "type": "git",
